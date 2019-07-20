@@ -19,3 +19,7 @@ screenshot")
 | Transposto               | Transose it       |             |
 | Arquivo de texto         | Text file name    |             |
 | Salvar                   | Save to text file |             |
+
+TODO
+
+It's reading `int` and `double` for now. Must make it read `float` and others!
